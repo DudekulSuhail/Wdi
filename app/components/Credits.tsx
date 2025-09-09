@@ -6,11 +6,11 @@ const Credits: React.FC = () => {
       <p className="text-sm text-gray-700">
         Built with ❤️ by{" "}
         <a
-          href="https://twitter.com/arthurtakeda"
+          href="https://www.behance.net/dudekulvelorum"
           target="_blank"
           className="text-blue-600 hover:underline"
         >
-          Arthur Takeda
+          Dudekul Suhail
         </a>
       </p>
     </div>
