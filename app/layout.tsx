@@ -15,7 +15,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Learn Thing",
+  title: "Wdi AI",
   description: "AI-generated mind map to learn something new.",
 };
 
