@@ -12,7 +12,7 @@ import { validateMindMapData } from "@/lib/utils";
 import { z } from "zod";
 
 const USE_LOCAL_MODELS = process.env.NEXT_PUBLIC_USE_LOCAL_MODELS === "true";
-const LOCAL_MODEL = "llama3.1:8b";
+const LOCAL_MODEL = "llama3.1";
 const EXTERNAL_MODEL = "gpt-4o";
 
 const getModel = (useLocalModel: boolean) =>
